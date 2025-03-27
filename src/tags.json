@@ -197,6 +197,7 @@
   "thermometer": ["temperature", "celsius", "fahrenheit", "weather"],
   "thumbs-down": ["dislike", "bad", "emotion"],
   "thumbs-up": ["like", "good", "emotion"],
+  "tiktok": ["logo", "social"],
   "toggle-left": ["on", "off", "switch"],
   "toggle-right": ["on", "off", "switch"],
   "tool": ["settings", "spanner"],
