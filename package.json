@@ -22,7 +22,8 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "optimize-svgs": "babel-node bin/optimize-svgs.js",
-    "release": "yarn build && changeset publish"
+    "release": "yarn build && changeset publish",
+    "prepare": "npm install && npm run build"
   },
   "jest": {
     "collectCoverageFrom": [
